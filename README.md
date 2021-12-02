@@ -1,10 +1,3 @@
-# NodeJS Boilerplate
+# Advent of Code 2021 solutions
 
-## Features:
-- TypeScript
-- Jest
-- ESLint
-- Prettier
-- Husky
-- CommitLint
-- CI in GitHub Action
+[Advent of Code 2021](https://adventofcode.com/2021)
