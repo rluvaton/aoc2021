@@ -4,7 +4,6 @@ export enum DirectionType {
   FORWARD = 'forward',
   DOWN = 'down',
   UP = 'up',
-  AIM = 'aim',
 }
 
 export type ParsedInput = [type: DirectionType, value: number][];
